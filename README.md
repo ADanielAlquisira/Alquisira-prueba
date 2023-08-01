@@ -1,2 +1,2 @@
-# Alquisira-prueba
-Este es un repositorio de prueba del modulo 2 del curso de Henrry
+Alan Alquisira
+ proyecto es una prueba para ver como crear una repositorio y clonarlo desde github y pegarlo a mi compu
